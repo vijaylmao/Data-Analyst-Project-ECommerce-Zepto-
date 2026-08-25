@@ -115,41 +115,8 @@ CREATE TABLE zepto (
 - Measured total inventory weight per product category
 
 
-## 🛠️ How to Use This Project
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/kunaljawalkar/SQL-Data-Analyst-Portfolio-Project-ECommerce-Zepto) - SQL DATA ANALYST PORTFOLIO PROJECT
-   ```
-2. **Open SQL DATA ANALYST PORTFOLIO PROJECT.sql**
-
-    This file contains:
-
-      - Table creation
-
-      - Data exploration
-
-      - Data cleaning
-
-      - SQL Business analysis
-  
-3. **Load the dataset into pgAdmin or any other PostgreSQL client**
-
-      - Create a database and run the SQL file
-
-      - Import the dataset (convert to UTF-8 if necessary)
-
-4. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
-
-## 📜 License
-
-MIT — feel free to fork, star, and use in your portfolio.
-
-## 👨‍💻 About the Author
-Hey, I’m Kunal Jawalkar — a Data Analyst & PF trainer.
-I teach data usage into simple, practical way that actually helps you understand in day to day and PF trainer.
-
-💼 LinkedIn: [Kunal Jawalkar](https://www.linkedin.com/in/kunal-jawalkar-161686150)
+     
 - Let’s connect all professionally and grow your data career
 
 
