@@ -142,16 +142,9 @@ The dashboard provides an interactive view of Zepto's sales and revenue performa
 - Revenue contribution varies considerably across product categories.
 - Category and stock-status filters allow users to explore product-level performance.
 
-## 📂 Project Files
+### Dashboard Screenshot
 
-| File | Description |
-|------|-------------|
-| `Zepto Sales & Revenue Dashboard.pbix` | Power BI dashboard |
-| `SQL DATA ANALYST PROJECT.sql` | SQL analysis queries |
-| `zepto_v1.xlsx` | Source dataset |
-| `zepto_v2.csv` | CSV dataset |
-| `data-1786443761201.csv` | Additional dataset |
-| `README.md` | Project documentation |
+![Zepto Sales & Revenue Dashboard](Zepto_Dashboard.png)
 
 ## 📈 Skills Demonstrated
 
