@@ -114,7 +114,67 @@ CREATE TABLE zepto (
 
 - Measured total inventory weight per product category
 
+## 📊 Power BI Dashboard
 
+The dashboard provides an interactive view of Zepto's sales and revenue performance.
+
+### Key Metrics
+
+- **Total Estimated Revenue:** ₹2.24M
+- **Total Products:** 3,725
+- **Average Selling Price:** ₹142.09
+
+### Dashboard Features
+
+- Revenue by Category
+- Top Products by Revenue
+- Revenue Distribution by Category
+- Revenue Share by Category
+- Price & MRP Relationship
+- Category Filter
+- Out-of-Stock Filter
+
+## 🔍 Key Insights
+
+- Cooking Essentials and Munchies contribute significantly to overall revenue.
+- A small group of products generates relatively high revenue compared with other products.
+- Selling price and MRP show a strong positive relationship.
+- Revenue contribution varies considerably across product categories.
+- Category and stock-status filters allow users to explore product-level performance.
+
+## 📂 Project Files
+
+| File | Description |
+|------|-------------|
+| `Zepto Sales & Revenue Dashboard.pbix` | Power BI dashboard |
+| `SQL DATA ANALYST PROJECT.sql` | SQL analysis queries |
+| `zepto_v1.xlsx` | Source dataset |
+| `zepto_v2.csv` | CSV dataset |
+| `data-1786443761201.csv` | Additional dataset |
+| `README.md` | Project documentation |
+
+## 📈 Skills Demonstrated
+
+- SQL Data Analysis
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Power BI Dashboard Development
+- KPI Analysis
+- Business Insights
+- Data Storytelling
+
+## 🎯 Business Objective
+
+The objective of this project is to analyze e-commerce sales data and provide actionable insights into **revenue performance, product demand, pricing, category contribution, and inventory status**.
+
+---
+
+### 👨‍💻 Author
+
+**Vijay**
+
+Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
      
 - Let’s connect all professionally and grow your data career
